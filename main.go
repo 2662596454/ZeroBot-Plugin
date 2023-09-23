@@ -12,68 +12,68 @@
 	“弦”“弦”
 	“时间”“时间”
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/console"     // 更改控制台属性"github.com/FloatTech/ZeroBot-Plugin/console" // 更改控制台属性
+	_ "github.com/FloatTech/ZeroBot-Plugin/console" // 更改控制台属性"github.com/FloatTech/ZeroBot-Plugin/console" // 更改控制台属性"github.com/FloatTech/ZeroBot-Plugin/console" // 更改控制台属性"github.com/FloatTech /ZeroBot-Plugin/console" // 更改控制台属性
 
-	“github 。 com/FloatTech/ZeroBot-Plugin/看板”     // 打印横幅"github.com/FloatTech/ZeroBot-Plugin/kanban" // 打印横幅
+	“github。com/FloatTech/ZeroBot-Plugin/看板”// 打印横幅"github.com/FloatTech/ZeroBot-Plugin/kanban" // 打印横幅 // 打印横幅"github.com/FloatTech/ZeroBot-Plugin/kanban " // 打印横幅
 
 	// ---------以下插件通过前面加 // 注释、注释后没有加载插件-------- //// ---------以下插件欢迎通过前面添加 // 注释、注释后不再加载--------- //
-	// ---------------------- 插件优先级按顺序从高到低------------------ - - - - ----- //// ---------------------- 插件优先级按顺序从高到低--------- - - - --- ------------ //
-	// //// // // // // // // // // // // // // // //
-	// //// // // // // // // // // // // // // // // //
-	// //// // // // // // // // // // // // // // // // //
-	// //// // // // // // // // // // // // // // // // //
-	// //// // // // // // // // // // // // // // // //
-	// ---------------------------------------- 高优先级区---- ------------ ------------ //// ---------------------- ------高级优先级区---------------------------------------- ------------ //
-	// vvvvvvvvvvvvvvvvvv高级区vvvvvvvvvvvvvvvvvv //// vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv高级区vvvvvvvvvvvvvvv vvvv维维 //
-	// vvvvvvvvvvvvvv 高级区vvvvvvvvvv //// vvvvvvvvvvvv 高级区vvvvvvvvvvvvv //
-	// vvvvvvv高级区vvvvvvv //
-	// vvvvvvvvvvvvvv //// vvvvvvvvvvvvvv //
-	// 呜呜呜 //
-
-	_“github . com/FloatTech/ZeroBot-Plugin/plugin/antiabuse”    // 违禁词
-
-	_“github .com/FloatTech/ZeroBot-Plugin/plugin/chat” // 基础词库"github.com/FloatTech/ZeroBot-Plugin/plugin/chat" // 基础词库
-
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/sleepmanage"   // 统计睡眠时间
-
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/atri"   // ATRI词库"github.com/FloatTech/ZeroBot-Plugin/plugin/atri" // ATRI词库
-
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager"   // 群管 "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管
-
-	_ "github.com/FloatTech/zbputils/job"   // 定时指令触发"github.com/FloatTech/zbputils/job" // 定时指令触发
-
-	// ^^^^ //// ^^^^ //
-	// ^^^^^^^^^^^^^^^^^ //// ^^^^^^^^^^^^^^ //
-	// ^^^^^^^高级区^^^^^^^ //// ^^^^^^^高级区^^^^^^^ //
-	// ^^^^^^^^^^^^^^^^^高级区^^^^^^^^^^^^^^^^^ //// ^^^^^^^^^ ^^^ ^^^^高级区^^^^^^^^^^^^^^^^ //
-	// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^高级区^^^^^^^^^^^^^^^ ^^^ ^^^^^^^^^^^^^^^ //// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^ ^^^高级区^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ //
-	// ---------------------------------------- 高优先级区---- ------------ ------------ //// ---------------------- ------高级优先级区---------------------------------------- ------------ //
-	// //// // // // // // //
-	// //// // // // // //
-	// //// // // // // //
-	// //// // // // // //
-	// //// // // // //
-	// ----------------------------------------中优先级区---- ------------ ------------ //// ---------------------- ------中优先级区---------------------------- //
-	// vvvvvvvvvvvvvvvvvvvvvvvvv中优先级区vvvvvvvvvvvvvvvvvvvvvvvvv //// vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv中优先级区vvvvvvvvvvvvvvvvvvvvvvvvvvv //
-	// vvvvvvvvvvvvvv中优先级区vvvvvvvvvvvvvv //
-	// vvvvvvv中优先级区vvvvvvv //// vvvvvvv中优先级区vvvvvvv //
-	// vvvvvvvvvvvvvv //// vvvvvvvvvvvvvv //
+	// ---------------------- 插件优先级按顺序从高到低------------------ - - - - - - ----- //// ---------------------- 插件优先级按顺序从高到低---- - ---- - - - --- ------------ //----- //// ---------------------- 插件优先级按顺序从高到低----- ---- - - - --- ------------ //// ---------------------- 插件优先级按顺序从高到低------------------ - - - - ----- //// ----------------- ----- 插件优先级按顺序从高到低--------- - - - --- ------------ //
+	// //// // // // // // // // // // // // // // // // //// //// // // // // // // // // // // // // // // // // // // // // // // // // // // // //
+	// //// // // // // // // // // // // // // // // // //// //// // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //// // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //// // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //// // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //// // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //// // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //// // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //// // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //
+	// //// // // // // // // // // // // // // // // // // //// //// // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //// // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //
+	// //// // // // // // // // // // // // // // // // // //// //// // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //// // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //// // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //// // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //// // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // // //
+	// //// // // // // // // // // // // // // // // // //// //// // // // // // // // // // // // // // // // // // // // // // // // // // //
+	// ---------------------------------------- 高优先级区---- ------------ ------------ //// ---------------------- ------高级优先级区---------------------------------------- ------------------------------------ //// ---------------------------------- ------ 高优先级区---- ------------ ------------ //// -------- -------------- ------ 高级优先级区---------------------------- -------------- ------------ //
+	// vvvvvvvvvvvvv 高级区vvvvvvvvvvvvvv //// vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv 高级区vvvvvvvvvvvv vvvvviv i //// v vvvvvvvvvvvv vv高级区vvvvvvvvvvvvvvv //// vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv高级区vvvvvvvvvvvvv vvvvVivi //
+	// vvvvvvvvvvvv 高级区vvvvvvvvv //// vvvvvvvvvvvv 高级区vvvvvvvvvvv //// vvvvvvvvvvvv 高级区vvvvvvvvvv //// vvvvvvvvvvv 高级区vvvvvvvvvvv //
+	// vvvvvvv 高级区vvvvvvv //// vvvvvvv 高级区vvvvvvv //
+	// vvvvvvvvvvvvv //// vvvvvvvvvvvvv //// vvvvvvvvvvvvvv //// vvvvvvvvvvvvv //
 	// 呜呜呜 //// 呜呜呜 //
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ahsai" // ahsai tts"github.com/FloatTech/ZeroBot-Plugin/plugin/ahsai"            // ahsai tts
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aifalse" // 服务器监控"github.com/FloatTech/ZeroBot-Plugin/plugin/aifalse"          // 服务器监控
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aipaint" // ai 绘图"github.com/FloatTech/ZeroBot-Plugin/plugin/aipaint"          // ai绘图
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife" // 随机老婆"github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"           // 随机老婆
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/alipayvoice" // 支付宝到账语音"github.com/FloatTech/ZeroBot-Plugin/plugin/alipayvoice"      // 支付宝到账语音
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/autowithdraw" // 触发者撤回时也自动撤回"github.com/FloatTech/ZeroBot-Plugin/plugin/autowithdraw"     // 触发者撤回时也自动撤回
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baidu" // 百度一下"github.com/FloatTech/ZeroBot-Plugin/plugin/baidu"            // 百度一下
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baiduaudit" // 百度内容审核"github.com/FloatTech/ZeroBot-Plugin/plugin/baiduaudit"       // 百度内容审核
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/base16384" // base16384加解密"github.com/FloatTech/ZeroBot-Plugin/plugin/base16384"        // base16384加解密
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/base64gua" // base64卦加解密"github.com/FloatTech/ZeroBot-Plugin/plugin/base64gua"        // base64卦加解密
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baseamasiro" // base天城文加解密"github.com/FloatTech/ZeroBot-Plugin/plugin/baseamasiro"      // base天城文加解密
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili" // b站相关"github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili"         // b站相关
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bookreview" // 哀伤雪刃吧推书记录"github.com/FloatTech/ZeroBot-Plugin/plugin/bookreview"       // 哀伤雪刃吧推书记录
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cangtoushi" // 藏头诗"github.com/FloatTech/ZeroBot-Plugin/plugin/cangtoushi"       // 藏头诗
+	_“github . com/FloatTech/ZeroBot-Plugin/plugin/antiabuse”
+
+	_“github 。com/FloatTech/ZeroBot-Plugin/plugin/chat” // 基础词库"github.com/FloatTech/ZeroBot-Plugin/plugin/chat" // 基础词库
+
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/sleepmanage" // 统计睡眠时间"github.com/FloatTech/ZeroBot-Plugin/plugin/sleepmanage" // 统计睡眠时间
+
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/atri"   // ATRI词库"github.com/FloatTech/ZeroBot-Plugin/plugin/atri" // ATRI词库"github.com/FloatTech/ZeroBot- Plugin/plugin/atri" // ATRI词库"github.com/ FloatTech/ZeroBot-Plugin/plugin/atri" // ATRI词库
+
+	_“github . com/FloatTech/ZeroBot-Plugin/plugin/manager”   // 群管 "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管"github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管 "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管
+
+	_ "github.com/FloatTech/zbputils/job"   // 定时指令触发"github.com/FloatTech/zbputils/job" // 定时指令触发"github.com/FloatTech/zbputils/job" // 定时指令触发" github.com/FloatTech/zbputils/job" //定时触发指令
+
+	// ^^^^ //// ^^^^ //// ^^^^ //// ^^^^ //
+	// ^^^^^^^^^^^^^^^^^^^^^ //// ^^^^^^^^^^^^^^ //// ^^^^^^ ^^ ^^ ^^^^^^^^^^ //// ^^^^^^^^^^^^^^^^ //
+	// ^^^^^^^高级区^^^^^^^ //// ^^^^^^^高级区^^^^^^^ //// ^^^^^^^^^ ^高级^区^^^^^^ //// ^^^^^^^高级区^^^^^^^ //
+	// ^^^^^^^^^^^^^^^^^^^^高级区^^^^^^^^^^^^^^^^^^^^ //// ^^^^ ^^ ^^^ ^ ^^^ ^^^^高级区^^^^^^^^^^^^^^^^^^^ //// ^^^^^^^^^^^^^ ^^^ ^高级区^^^^^^^^^^^^^^^^^^^ //// ^^^^^^^^^^^ ^^^ ^^^^高级区^^^ ^^^^^ ^^^^^^^^ //
+	// ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^高级区^^^^^ ^^^^^ ^^^^ ^^^^ ^^^ ^^^^^^^^^^^^^^^ //// ^^^^^^ ^^^^^^^^^ ^^^^^^ ^^^^ ^^^^ ^^^高级区^^^^^^^^^^^^^^^^^^^^^^^^ ^^^^^^^^ ^^^^^^ /// / ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^高级区^^^^^^^^^^^^^^ ^^^ ^^^ ^^^^^^^^^^^^^^^^^^ //// ^^^^ ^^^^ ^^^^^^^^^^^^^^^^^^^^^^^^^^^高级区^^^^^^^^^^^^^^^^^^^^^^^^^ ^^^^^^^^^^^^^^ //
+	// ---------------------------------------- 高优先级区---- ------------ ------------ //// ---------------------- ------高级优先级区---------------------------------------- ------------------------ //// ---------------------- ------------ ------ 高优先级区---- ------------ ------------ //// -------- -------------- ------ 高级优先级区---------------- ------------ -------------- ------------ //
+	// //// // // // // // // // // // // // // // //
+	// //// // // // // // // //
+	// //// // // // // // // //// //// // // // // // //
+	// //// // // // // // // //// //// // // // // // //
+	// //// // // // // // //// //// // // // // //
+	// ----------------------------------------中优先级区---- ------------ ------------ //// ---------------------- ------中优先级区---------------------------- //// -------- --------------------------------中优先级区---- ---------- -- ------------ //// ---------------------- ------中优先级区---------------------------- //
+	// vvvvvvvvvvvvvvvvvvvvvv中优先级区vvvvvvvvvvvvvvvvvvvvv //// vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv中优先级区vvvvvvvvvvvvvvvvvvvvvv维维//// vvvvvvvvvvvvvvvvvvvvvvv中优先级区vvvvvvvvvvvvvvvvvvvvvvv //// vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv中优先级区vvvvvvvvvvvvvvvvvvv呜呜呜呜//
+	// vvvvvvvvvvvvvv中优先级区vvvvvvvvvvvvvv //
+	// vvvvvvv中优先级区vvvvvvv //// vvvvvvv中优先级区vvvvvvv //// vvvvvvv中优先级区vvvvvvv //// vvvvvvv中优先级区vvvvvvv //
+	// vvvvvvvvvvvvvv //// vvvvvvvvvvvvvv //// vvvvvvvvvvvvvv //// vvvvvvvvvvvvvv //
+	// 呜呜呜 //// 呜呜呜 //// 呜呜呜 //// 呜呜呜 //
+
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ahsai" // ahsai tts"github.com/FloatTech/ZeroBot-Plugin/plugin/ahsai" // ahsai tts"github.com/FloatTech/ZeroBot-Plugin/plugin/ahsai" // ahsai tts"github.com/FloatTech/ZeroBot-Plugin/plugin/ahsai"            // ahsai tts
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aifalse" // 服务器监控"github.com/FloatTech/ZeroBot-Plugin/plugin/aifalse" // 服务器监控"github.com/FloatTech/ZeroBot-Plugin/plugin/aifalse" // 服务器监控"github.com/FloatTech/ZeroBot-Plugin/plugin/aifalse"          // 服务器监控
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aipaint" // ai 绘图"github.com/FloatTech/ZeroBot-Plugin/plugin/aipaint" // ai 绘图"github.com/FloatTech/ZeroBot-Plugin/plugin/aipaint" // ai 绘图"github.com/FloatTech/ZeroBot-Plugin/plugin/aipaint"          // ai绘图
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife" 
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/alipayvoice"  // 支付宝到账语音"github.com/FloatTech/ZeroBot-Plugin/plugin/alipayvoice" // 支付宝到账语音
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/autowithdraw" // 触发者撤回时也自动撤回"github.com/FloatTech/ZeroBot-Plugin/plugin/autowithdraw" // 触发者撤回时也自动撤回"github.com/FloatTech/ZeroBot-Plugin/plugin/autowithdraw" // 触发者撤回时也自动撤回"github.com/FloatTech/ZeroBot-Plugin/plugin/autowithdraw"     // 触发者撤回时也自动撤回
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baidu" // 百度一下"github.com/FloatTech/ZeroBot-Plugin/plugin/baidu" // 百度一下"github.com/FloatTech/ZeroBot-Plugin/plugin/baidu" // 百度一下"github.com/FloatTech/ZeroBot-Plugin/plugin/baidu"            // 百度一下
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baiduaudit" // 百度内容审核"github.com/FloatTech/ZeroBot-Plugin/plugin/baiduaudit" // 百度内容审核"github.com/FloatTech/ZeroBot-Plugin/plugin/baiduaudit" // 百度内容审核"github.com/FloatTech/ZeroBot-Plugin/plugin/baiduaudit"       // 百度内容审核
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/base16384" 
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/base64gua" // base64卦加解密"github.com/FloatTech/ZeroBot-Plugin/plugin/base64gua" // base64卦加解密"github.com/FloatTech/ZeroBot-Plugin/plugin/base64gua"  // base64卦加解密"github.com/FloatTech/ZeroBot-Plugin/plugin/base64gua" // base64卦加解密
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/baseamasiro" // base天城文加解密"github.com/FloatTech/ZeroBot-Plugin/plugin/baseamasiro" // base天城文加解密"github.com/FloatTech/ZeroBot-Plugin/plugin/baseamasiro" // base天城文加解密"github.com/FloatTech/ZeroBot-Plugin/plugin/baseamasiro"      // base天城文加解密
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili" // b站相关"github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili" // b站相关"github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili" // b站相关"github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili"         // b站相关
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bookreview" // 哀伤雪刃吧推书记录"github.com/FloatTech/ZeroBot-Plugin/plugin/bookreview" // 哀伤雪刃吧推书记录"github.com/FloatTech/ZeroBot-Plugin/plugin/bookreview" // 哀伤雪刃吧推书记录"github.com/FloatTech/ZeroBot-Plugin/plugin/bookreview"       // 哀伤雪刃吧推书记录
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/cangtoushi" 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chess" // 国际象棋"github.com/FloatTech/ZeroBot-Plugin/plugin/chess"            // 国际象棋
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/choose" // 选择困难症帮手"github.com/FloatTech/ZeroBot-Plugin/plugin/choose"           // 选择困难症帮手
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/choufanghua" // 说抽象话"github.com/FloatTech/ZeroBot-Plugin/plugin/chouxianghua"     // 说抽象话
@@ -106,11 +106,11 @@
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/jiami" // 兽语加密"github.com/FloatTech/ZeroBot-Plugin/plugin/jiami"            // 兽语加密
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/jptingroom" // 日语听力学习材料"github.com/FloatTech/ZeroBot-Plugin/plugin/jptingroom"       // 日语听力学习材料
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/juejuezi"         // 绝绝子生成器
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/kfccrazythursday" // 疯狂星期四
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/lolicon"          // lolicon 随机图片
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/magicprompt"      // magicprompt吟唱提示
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/mcfish"           // 钓鱼模拟器
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/midicreate"       // 简易midi音乐制作
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/kfccrazythursday"  // 疯狂星期四
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/lolicon"           // 萝莉控随机图片
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/magicprompt"       // magicprompt 吟唱提示
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/mcfish"            // 钓鱼模拟器
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/midicreate"        // 简易midi音乐制作
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moegoe"           // 日韩 VITS 模型拟声
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyu"             // 摸鱼
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/moyucalendar"     // 摸鱼人日历
